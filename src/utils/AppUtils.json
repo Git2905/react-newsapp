@@ -1,0 +1,16 @@
+{
+    "appTitle": "NewsTeller",
+    "country": "in",
+    "pageSize": "12",
+    "defaultCountry": "in",
+    "defaultPazeSize": "8",
+    "categories": [
+        "Business",
+        "Entertainment",
+        "Health",
+        "Science",
+        "Sports",
+        "Technology"
+    ],
+    "defaultCategory": "General"
+}
